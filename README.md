@@ -9,3 +9,7 @@ Previsão de conclusão: **Janeiro de 2025**
 # Conhecimentos
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
+# Certificados
+<h3>Bootcamp Java - DIO & Santander
+
+<img src="./assets/imagens/CertificadoJavaBackEnd.png">
