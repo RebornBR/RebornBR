@@ -12,4 +12,4 @@ Previsão de conclusão: **Janeiro de 2025**
 # Certificados
 <h3>Bootcamp Java - DIO & Santander
 
-<img src="./assets/imagens/CertificadoJavaBackEnd.png">
+<img src="./assets/imagens/CertificadoJavaBackEnd.png" width="700" height="500"/>
