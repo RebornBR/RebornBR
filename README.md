@@ -23,7 +23,7 @@
 <img src="./assets/imagens/CertificadoJavaBackEnd.png" width="700" height="500"/>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RebornBR&center=trueVcenter=true&theme=black-pine&border_radius=5&locale=pt_BR&fire=E00303&background=000000&border=ff0000&stroke=ff0000&ring=ff0000&sideNums=ff0000&currStreakNum=ff000-&currStreakLabel=ff0000&sideLabels=ff0000&dates=ff0000)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RebornBR&center=trueVcenter=true&theme=black-pine&border_radius=5&locale=pt_BR&fire=000000&background=FFFFFF&border=ff0000&stroke=000000&ring=ff0000&sideNums=FF0000&currStreakNum=000000-&currStreakLabel=000000&sideLabels=000000&dates=000000)](https://git.io/streak-stats) 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
