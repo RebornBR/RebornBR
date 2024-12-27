@@ -50,6 +50,7 @@ O projeto conta com uma API feita em Java(SpringFramework) e com um site para ac
 <h3 align="left">Descrição do projeto:</h3>
 O projeto banco de questões foi idealizado e construído com o objetivo de armazenar as questões utilizadas nas avaliações de autoaprendizagem da faculdade. Esse é um projeto onde pude pôr em prática vários dos conteúdos aprendidos durante o Bootcamp de Java, como: POO, Spring FrameWork, PostgreSQL, Swagger e SQL.
 <div align="center"> 
+<h3><a href="https://github.com/RebornBR/BancoQuestoes">Clique aqui para mais informaçoes sobre o uso e funçoes da API desse projeto</a></h3>
 <div align="center"> 
 </div>
 </div>
