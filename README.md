@@ -27,7 +27,7 @@
  <li>Era necessário a locomoção até determinado setor para saber em qual etapa do processo de produção o pedido se encontrava.
 
 <div align="center"> 
-<h3><a href="https://github.com/RebornBR/Projetos/tree/main/AplicacaoRastreio">Clique aqui para mais informaçoes sobre o uso e funçoes da API desse projeto</a></h3>
+<h3><a href="https://github.com/RebornBR/RastreioPedido">Clique aqui para mais informaçoes sobre o uso e funçoes da API desse projeto</a></h3>
 </div>
 <p>
 </p>  
