@@ -32,7 +32,7 @@
 <h1 align="center"> Projeto <a href=></a> Arquimedes</h1>
 <h3 align="left">Descrição do projeto:</h3>
 O Projeto Arquimedes é destinado a soluções matemáticas, nele é possível calcular algumas questões matemáticas.
-O projeto conta com uma API feita em Java(SpringFramework) e com um site para acesso de usuários. No site é possível utilizar todas as funções acimas citadas e além disso, o usuário terá acesso a um chatbot criado com o botpress para caso tenha mais dúvidas
+O projeto conta com uma API feita em Java(SpringFramework)
 <div align="center"> 
 <h3><a href="https://github.com/RebornBR/ArquimedesBack/tree/main">Clique aqui para mais informaçoes sobre o uso e funçoes da API desse projeto</a></h3>
 </div>
